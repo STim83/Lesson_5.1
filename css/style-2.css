@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Poppins&display=swap');
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
+.title {
+    color: #1e212c;
+    font-family: "Lato";
+    font-size: 46px;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 130%;
+    width: 833px;
+    height: 210px;
+    margin: 0 auto 92px;
+}
+.sub {
+    color: #1e212c;
+    font-family: "Lato";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 150%;
+    height: 90px;
+    width: 810px;
+    margin: 0 auto 24px;
+}
+.text {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    width: 810px;
+    height: 91px;
+    margin: 0 auto ;
+
+}
+.list {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    width: 810px;
+    height: 52px;
+    margin: 0 auto 24px;
+}
+img {
+    display: block;
+    margin: 0 auto 60px;
+}
+.text-2 {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    width: 810px;
+    height: 91px;
+    margin: 0 auto 48px;
+}
+.sub-2 {
+    width: 752px;
+    height: 120px;
+    margin: 0 0 48px 330px;
+    color: #1e212c;
+    font-family: "Lato";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 150%;
+}
+.list-2 {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    width: 600px;
+    height: 116px;
+    margin: 0 0  24px 300px;
+}
+.list-3 {
+    color: #424551;
+    font-family: "Lato";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 160%;
+    width: 810px;
+    height: 104px;
+    margin: 0 auto 24px;
+} 

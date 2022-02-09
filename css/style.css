@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+p {color: red;}
+p {color: olivedrab;}
+span {color: sienna;}
+footer {color: steelblue;}
+.title {color: tomato;}
+.title {color: peru;}
+.sub {color: rgb(114, 184, 162);}
+.list {color: royalblue;}
+#block {color: navy;}
+.sub {color: red;}
+.text {color: rgb(0, 128, 111);}
+
+@font-face {
+    font-family: "Circe";
+    src: url("../fonts/Circe-Bold.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+body {
+    font-family:"Circe";
+    font-size: 20px;
+}
+body {
+    font-family: "Poppins";
+    font-size: 20px;
+    
+}
+.title {
+    color: limegreen;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.sub {
+    color: rgb(87, 168, 87);
+    text-align: center;
+    font-size: 27px;
+}
+.text {
+    color: midnightblue;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Circe";
+}
+.list {
+    text-shadow: 3px 3px 3px rgb(87, 168, 87);
+}
+span {
+    font-family: "Circe", serif;
+}
+p {
+    text-align: left;
+}
